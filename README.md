@@ -28,7 +28,6 @@
 ![ELK Stack](https://img.shields.io/badge/ELK-%23005571?style=flat-square&logo=elastic&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=white)
-![nGrinder](https://img.shields.io/badge/nGrinder-%234285F4?style=flat-square&logo=apache&logoColor=white)
 
 ---
 
